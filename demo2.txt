@@ -1,4 +1,1 @@
-welcome
-to hell
-demo
-demo 2
+delete
